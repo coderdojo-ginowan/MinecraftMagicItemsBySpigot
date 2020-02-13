@@ -12,3 +12,7 @@ Java：Java SE Development Kit 8u241
 Spigot：1.15.2  
   
 ※上記は2020年2月1日時点のものです。その後更新されるバージョンについてはそれぞれの情報を参照ください。 
+
+## 参考
+Spigot Javadoc
+https://hub.spigotmc.org/javadocs/spigot/overview-summary.html
